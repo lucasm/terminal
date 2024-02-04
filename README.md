@@ -1,19 +1,22 @@
-# My Terminal config for macOs 👨🏼‍💻
+# My Terminal Configs 👨🏼‍💻
+
+This repository contains configuration files and setup instructions for my preferred terminals on macOS, Linux, and Windows environments.
+
+## macOS or Linux
 
 Install the following:
 
-## 1. Terminal emulator [iTerm2](https://iterm2.com/) or [Hyper](https://hyper.is/)
+### 1. Terminal emulator [iTerm2](https://iterm2.com/) or [Hyper](https://hyper.is/)
 
-## 2. Package manager [Homebrew](https://brew.sh/)
+### 2. Package manager [Homebrew](https://brew.sh/)
 
 `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 
-
-## 3. Command line shell [zsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH) 
+### 3. Command line shell [zsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH) 
 
 `brew install zsh`
 
-## 4. Framework for zsh [Oh My Zsh](https://ohmyz.sh/#curl-tab)
+### 4. Framework for zsh [Oh My Zsh](https://ohmyz.sh/#curl-tab)
 
 `sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
 
@@ -42,3 +45,12 @@ Set `ZSH_THEME="spaceship"` in your `.zshrc`
 2. Clone `git clone https://github.com/dracula/zsh.git`
 3. Move file `dracula.zsh-theme` and folder `lib` to `themes`
 4. Edit config file `nano ~/.zshrc` change theme to `ZSH_THEME="dracula"`
+
+
+## Windows
+
+### Just Windows Terminal
+- https://apps.microsoft.com/detail/9N0DX20HK701
+- https://github.com/microsoft/terminal
+
+
