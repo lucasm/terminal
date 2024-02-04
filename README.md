@@ -50,7 +50,6 @@ Set `ZSH_THEME="spaceship"` in your `.zshrc`
 ## Windows
 
 ### Just Windows Terminal
-- https://apps.microsoft.com/detail/9N0DX20HK701
 - https://github.com/microsoft/terminal
 
 
