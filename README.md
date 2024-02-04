@@ -1,4 +1,4 @@
-# My Terminal Configs 👨🏼‍💻
+# My Terminal Configs 💻
 
 This repository contains configuration files and setup instructions for my preferred terminals on macOS, Linux, and Windows environments.
 
