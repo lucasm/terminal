@@ -55,4 +55,6 @@ Set `ZSH_THEME="spaceship"` in your `.zshrc`
 ### 2. Oh My Posh
 - https://github.com/jandedobbeleer/oh-my-posh
 
+`winget install JanDeDobbeleer.OhMyPosh -s winget`
+
 
