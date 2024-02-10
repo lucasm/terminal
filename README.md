@@ -49,7 +49,10 @@ Set `ZSH_THEME="spaceship"` in your `.zshrc`
 
 ## Windows
 
-### Just Windows Terminal
+### 1. Windows Terminal
 - https://github.com/microsoft/terminal
+ 
+### 2. Oh My Posh
+- https://github.com/jandedobbeleer/oh-my-posh
 
 
